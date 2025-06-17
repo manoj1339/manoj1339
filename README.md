@@ -11,7 +11,9 @@
 
 - 🌱 Learning and building with **React Native**, **React JS**, **Node.js** and **MongoDB** 
 - 💡 Passionate about solving real-life problems with technology  
-- 📫 Reach me at **manojavhale@gmail.com**  
+- 📫 Reach me at **manojavhale@gmail.com**
+
+---
 
 ### 👨‍💼 Professional Experience
 
