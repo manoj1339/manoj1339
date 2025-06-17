@@ -7,11 +7,16 @@
 
 ---
 
+### 👨‍💻 About Me
+
+- 🌱 Learning and building with **React Native**, **React JS**, **Node.js** and **MongoDB** 
+- 💡 Passionate about solving real-life problems with technology  
+- 📫 Reach me at **manojavhale@gmail.com**  
+
 ### 👨‍💼 Professional Experience
 
 - 💼 **Globant** – Ssr. Web UI Developer  
 - 💼 **Scalex Technology Solutions LLP** – Software Engineer
-- 🚀 Currently building **ParkAce**, a smart parking space rental platform  
 
 ---
 
