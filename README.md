@@ -31,18 +31,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manojavhale&show_icons=true&theme=tokyonight" alt="manojavhale stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manojavhale&theme=tokyonight" alt="manojavhale streak" />
-</p>
-
----
-
 ### 📬 Contact Me
 
 - 📧 Email: **manojavhale@gmail.com**  
